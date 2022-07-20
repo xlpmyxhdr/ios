@@ -4,8 +4,8 @@
     "sourceAuthor": "ALSL ios",
     "sourceLinkTitle": "主页",
     "sourceLinkUrl": "https://114514.run",
-    "sourceImage": "https://gbox.run/Public/images/source.png",
-    "sourceUpdateTime": "2019-11-23T11:00:00+0800", 
+    "sourceImage": "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211380676394.jpg",
+    "sourceUpdateTime": "2022-07-20T11:00:00+0800", 
     "sourceDescription": "描述",
     "appCategories": [
         "原神"
@@ -14,12 +14,12 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2019-11-23T08:00:00+0800",
-            "appName": "GBox",
-            "appVersion": "1.3.6",
+            "appUpdateTime": "2022-07-21T08:00:00+0800",
+            "appName": "测试2.8 OS",
+            "appVersion": "2.8",
             "appImage": "https://gbox.run/Public/images/icon.png",
-            "appPackage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/GBox_v1.3.6_1122.ipa",
-            "appDescription": "App的描述"
+            "appPackage": "http://storage.live.com/items/01EARTFYB4JQ3XBSNT7BDYZBXBGCSQAEG2:/原神国际2.8私.ipa",
+            "appDescription": "测试版本"
         }
     ]
 }
