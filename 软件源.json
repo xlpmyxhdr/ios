@@ -2,9 +2,9 @@
     "version": "1.0",
     "sourceName": "原神私服软件源",
     "sourceAuthor": "ALSL ios",
-    "sourceLinkTitle": "主页",
-    "sourceLinkUrl": "https://114514.run",
-    "sourceImage": "https://alifei02.cfp.cn/creative/vcg/800/new/VCG211380676394.jpg",
+    "sourceLinkTitle": "原神官网",
+    "sourceLinkUrl": "https://ys.mihoyo.com/",
+    "sourceImage": "https://i0.hdslb.com/bfs/article/cd997532e5ce96b49cd4200fc2d80b5e9d085fea.jpg@942w_942h_progressive.webp",
     "sourceUpdateTime": "2022-07-20T11:00:00+0800", 
     "sourceDescription": "描述",
     "appCategories": [
@@ -20,6 +20,16 @@
             "appImage": "https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
             "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FVHhNTjNESnNfaEhqSWJoTUtVQUVOb0J1cmI1aUJJY0RyV2RuVzNzZlNOQV93P2U9akZ4ODNE.ipa",
             "appDescription": "测试版本"
+        },
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-07-21T08:00:00+0800",
+            "appName": "天理2.8",
+            "appVersion": "2.8",
+            "appImage": "https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
+            "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FUzFRRENPVFZfUkVnc3hOaGhuZ0NSc0JuT2pCQVlUcDNtSTllNTNEMHhhYVNBP2U9c0tnUFFa.ipa",
+            "appDescription": "天理服专用"
         }
     ]
 }
