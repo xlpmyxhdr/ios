@@ -17,8 +17,8 @@
             "appUpdateTime": "2022-07-21T08:00:00+0800",
             "appName": "测试2.8 OS",
             "appVersion": "2.8",
-            "appImage": "https://gbox.run/Public/images/icon.png",
-            "appPackage": "http://storage.live.com/items/01EARTFYB4JQ3XBSNT7BDYZBXBGCSQAEG2:/原神国际2.8私.ipa",
+            "appImage": "https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
+            "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FVHhNTjNESnNfaEhqSWJoTUtVQUVOb0J1cmI1aUJJY0RyV2RuVzNzZlNOQV93P2U9akZ4ODNE.ipa",
             "appDescription": "测试版本"
         }
     ]
