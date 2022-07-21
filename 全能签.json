@@ -1,20 +1,23 @@
 {
-    "name":"原神软件源",
-    "message":"公告",
-    "sourceURL":"https://casks.me/",
-    "sourceicon":"https://upload-bbs.mihoyo.com/upload/2021/10/03/295146377/24718cd8a5be690f1c3cfd8689d72b0e_1522052733179456067.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
-    "apps":[
+    "name": "原神软件源",
+    "message": "天理尝蛆 CASKS.ME",
+    "identifier": "https://casks.me/",
+    "sourceURL": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/全能签.json",
+    "sourceicon": "https://upload-bbs.mihoyo.com/upload/2021/10/03/295146377/24718cd8a5be690f1c3cfd8689d72b0e_1522052733179456067.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
+    "payURL": "https://casks.me/",
+    "unlockURL": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/全能签.json",
+    "apps": [
         {
-            "name":"天理2.8(香港)",
-            "version":"2.8",
-            "versionDate":"2022-07-22T03:00:00+0800",
-            "versionDescription":"天理服专用(国外网络环境和有高速vpn用户此路线最快)",
-            "lock":"0",
-            "downloadURL":"https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FUzFRRENPVFZfUkVnc3hOaGhuZ0NSc0JuT2pCQVlUcDNtSTllNTNEMHhhYVNBP2U9c0tnUFFa.ipa",
-            "isLanZouCloud":"0",
-            "iconURL":"https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
-            "tintColor":"",
-            "size":"3,412,752,994"
+            "name": "天理2.8(香港)",
+            "version": "2.8",
+            "versionDate": "2022-07-22",
+            "versionDescription": "天理服专用\n(国外网络环境和有高速vpn用户此路线最快)",
+            "lock": "0",
+            "downloadURL": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FUzFRRENPVFZfUkVnc3hOaGhuZ0NSc0JuT2pCQVlUcDNtSTllNTNEMHhhYVNBP2U9c0tnUFFa.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
+            "tintColor": "018084",
+            "size": "3412752994"
         }
     ]
 }
