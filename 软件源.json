@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "sourceName": "原神私服软件源",
+    "sourceName": "原神软件源",
     "sourceAuthor": "ALSL ios",
     "sourceLinkTitle": "原神官网",
     "sourceLinkUrl": "https://ys.mihoyo.com/",
@@ -8,7 +8,7 @@
     "sourceUpdateTime": "2022-07-20T11:00:00+0800", 
     "sourceDescription": "描述",
     "appCategories": [
-        "原神"
+        "原神海外高速路线"
     ],
     "appRepositories": [
         {
@@ -18,6 +18,16 @@
             "appName": "天理2.8",
             "appVersion": "2.8",
             "appImage": "https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
+            "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FUzFRRENPVFZfUkVnc3hOaGhuZ0NSc0JuT2pCQVlUcDNtSTllNTNEMHhhYVNBP2U9c0tnUFFa.ipa",
+            "appDescription": "天理服专用"
+        },
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-07-21T08:00:00+0800",
+            "appName": "原神2.8.5beta",
+            "appVersion": "2.8.51",
+            "appImage": "",
             "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FUzFRRENPVFZfUkVnc3hOaGhuZ0NSc0JuT2pCQVlUcDNtSTllNTNEMHhhYVNBP2U9c0tnUFFa.ipa",
             "appDescription": "天理服专用"
         }
