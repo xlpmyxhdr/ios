@@ -8,7 +8,8 @@
     "sourceUpdateTime": "2022-07-20T11:00:00+0800", 
     "sourceDescription": "描述",
     "appCategories": [
-        "原神海外高速路线"
+        "原神海外高速路线",
+        "原神国内高速路线"
     ],
     "appRepositories": [
         {
@@ -30,6 +31,16 @@
             "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/YS.png",
             "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FUzFRRENPVFZfUkVnc3hOaGhuZ0NSc0JuT2pCQVlUcDNtSTllNTNEMHhhYVNBP2U9c0tnUFFa.ipa",
             "appDescription": "ios专用"
+        },
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-07-21T08:00:00+0800",
+            "appName": "原神2.8.5beta",
+            "appVersion": "2.8.51",
+            "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/YS.png",
+            "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FUzFRRENPVFZfUkVnc3hOaGhuZ0NSc0JuT2pCQVlUcDNtSTllNTNEMHhhYVNBP2U9c0tnUFFa.ipa",
+            "appDescription": "国内高速路测试"
         }
     ]
 }
