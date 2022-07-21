@@ -36,10 +36,10 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 1,
             "appUpdateTime": "2022-07-21T08:00:00+0800",
-            "appName": "原神2.8.5beta",
-            "appVersion": "2.8.51",
-            "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/YS.png",
-            "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FUzFRRENPVFZfUkVnc3hOaGhuZ0NSc0JuT2pCQVlUcDNtSTllNTNEMHhhYVNBP2U9c0tnUFFa.ipa",
+            "appName": "原神2.8",
+            "appVersion": "2.8",
+            "appImage": "https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
+            "appPackage": "https://cloud189-shzh-person.oos-gdsz.ctyunapi.cn/PERSONCLOUD/1ccf1762-1a4c-48a0-ad1c-624f1b57976d.ipa?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=18bd696e8df5d7a48893&x-amz-userLevel=0&x-amz-UID=588274965&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22%E5%8E%9F%E7%A5%9E2.8%E5%A4%A9%E7%90%86.ipa%22%3Bfilename*%3DUTF-8%27%27%25E5%258E%259F%25E7%25A5%259E2.8%25E5%25A4%25A9%25E7%2590%2586.ipa&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D5%2Cconcurrency%3D12&Signature=4fwEyPO7pFGCF23RkyI/DbZors0%3D&x-amz-SHID=1140213410652&Expires=1658402650&x-amz-FSIZE=3412752994&x-amz-UFID=71382116691437877",
             "appDescription": "国内高速路测试"
         }
     ]
