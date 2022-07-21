@@ -1,0 +1,26 @@
+{
+    "version": "1.0",
+    "sourceName": "艾利斯兰专用",
+    "sourceAuthor": "ALSL ios",
+    "sourceLinkTitle": "艾利斯兰官网",
+    "sourceLinkUrl": "http://xlpmyxhdr.xyz/",
+    "sourceImage": "https://upload-bbs.mihoyo.com/upload/2021/10/03/295146377/24718cd8a5be690f1c3cfd8689d72b0e_1522052733179456067.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
+    "sourceUpdateTime": "2022-07-20T11:00:00+0800", 
+    "sourceDescription": "此软件源为艾利斯兰服主免费提供给服内成员，不涉及任何商业与金钱！！！",
+    "appCategories": [
+        "海外高速路线",
+        "国内高速路线"
+    ],
+    "appRepositories": [
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-07-19T08:00:00+0800",
+            "appName": "Minecraft",
+            "appVersion": "1.19.10.03",
+            "appImage": "https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
+            "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FUzFRRENPVFZfUkVnc3hOaGhuZ0NSc0JuT2pCQVlUcDNtSTllNTNEMHhhYVNBP2U9c0tnUFFa.ipa",
+            "appDescription": "艾利斯兰专用"
+        }  
+    ]
+}
