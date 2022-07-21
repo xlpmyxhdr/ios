@@ -16,7 +16,7 @@
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-07-19T08:00:00+0800",
-            "appName": "天理2.8",
+            "appName": "天理2.8路线1",
             "appVersion": "2.8",
             "appImage": "https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
             "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FUzFRRENPVFZfUkVnc3hOaGhuZ0NSc0JuT2pCQVlUcDNtSTllNTNEMHhhYVNBP2U9c0tnUFFa.ipa",
@@ -25,11 +25,11 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2022-07-21T08:00:00+0800",
-            "appName": "原神2.8.5beta",
-            "appVersion": "2.8.51",
+            "appUpdateTime": "2022-07-21T23:21:00+0800",
+            "appName": "原神2.8路线2",
+            "appVersion": "2.8",
             "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/YS.png",
-            "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FUzFRRENPVFZfUkVnc3hOaGhuZ0NSc0JuT2pCQVlUcDNtSTllNTNEMHhhYVNBP2U9c0tnUFFa.ipa",
+            "appPackage": "https://di.casks.me/Download/testtianli2.8.ipa",
             "appDescription": "ios专用"
         },
         {
