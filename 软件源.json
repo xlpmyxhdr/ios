@@ -9,7 +9,8 @@
     "sourceDescription": "描述",
     "appCategories": [
         "原神海外高速路线",
-        "原神国内高速路线"
+        "原神国内高速路线",
+        "海内外通用路线"
     ],
     "appRepositories": [
         {
@@ -41,6 +42,16 @@
             "appImage": "https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
             "appPackage": "https://vzsc8-my.sharepoint.com/personal/1872507219_vzsc8_onmicrosoft_com/_layouts/52/download.aspx?share=ES1QDCOTV_REgsxNhhngCRsBnOjBAYTp3mI9e53D0xaaSA",
             "appDescription": "国内高速路测试"
+        },
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-07-21T23:21:00+0800",
+            "appName": "天理2.8通用",
+            "appVersion": "2.8",
+            "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/YS.png",
+            "appPackage": "https://di.casks.me/Download/testtianli2.8.ipa",
+            "appDescription": "国内有概率无法访问"
         }
     ]
 }
