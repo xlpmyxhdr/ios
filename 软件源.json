@@ -36,11 +36,11 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2022-07-22T01:12:00+0800",
+            "appUpdateTime": "2022-07-22T22:49:00+0800",
             "appName": "天理2.8(韩国)",
             "appVersion": "2.8",
             "appImage": "https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
-            "appPackage": "https://di2.casks.me/Download/testtianli2.8.ipa",
+            "appPackage": "https://di2.casks.me/Download/tianli2.8.0.ipa",
             "appDescription": "天理服专用"
         },
         {
@@ -56,11 +56,11 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2022-07-21T23:21:00+0800",
+            "appUpdateTime": "2022-07-22T22:35:00+0800",
             "appName": "天理2.8(国内外通用)",
             "appVersion": "2.8",
             "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/YS.png",
-            "appPackage": "https://di.casks.me/Download/testtianli2.8.ipa",
+            "appPackage": "https://di.casks.me/Download/tianli2.8.0.ipa",
             "appDescription": "国内有概率无法访问(由于网络原因，请尽量将此通用路线让给国内网络环境用户使用)"
         }
     ]
