@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FWmJKempUMFdaRkR2ZWNzT0VYd25Dd0JLVEplb3pFU3hIZ2RyUmF2RFNUQk5nP2U9RmhlaEFG.ipa</string>
+                        <string><![CDATA[https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FWmJKempUMFdaRkR2ZWNzT0VYd25Dd0JLVEplb3pFU3hIZ2RyUmF2RFNUQk5nP2U9RmhlaEFG.ipa]]></string>
                     </dict>
                   <dict>
                 <key>kind</key>
@@ -18,7 +18,7 @@
                 <key>needs-shine</key>
                 <true/>
                 <key>url</key>
-                <string>https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png</string>
+                <string><![CDATA[https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png]]></string>
                 </dict>
                 </array>
                 <key>metadata</key>
@@ -30,7 +30,7 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>天理尝蛆</string>
+                    <string><![CDATA[天理尝蛆]]></string>
                 </dict>
             </dict>
         </array>
