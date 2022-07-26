@@ -55,13 +55,13 @@
         },
         {
             "appType": "ENT_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2022-07-22T22:35:00+0800",
-            "appName": "天理2.8(国内外通用)",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-07-21T22:35:00+0800",
+            "appName": "天理2.8(美国)",
             "appVersion": "2.8",
             "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/YS.png",
             "appPackage": "https://di.casks.me/Download/tianli2.8.0.ipa",
-            "appDescription": "国内有概率无法访问(由于网络原因，请尽量将此通用路线让给国内网络环境用户使用)"
+            "appDescription": "天理服专用"
         }
     ]
 }
