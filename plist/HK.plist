@@ -24,7 +24,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>xlpmy sifu</com></string>
+                    <string>com.xlpmy.sifu</com></string>
                     <key>bundle-version</key>
                     <string>2.8.0</string>
                     <key>kind</key>
