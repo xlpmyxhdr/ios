@@ -16,17 +16,18 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2022-07-22T22:12:00+0800",
+            "appUpdateTime": "2022-08-01T12:12:00+0800",
             "appName": "天理2.8(香港)",
             "appVersion": "2.8",
             "appImage": "https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
-            "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FWmJKempUMFdaRkR2ZWNzT0VYd25Dd0JLVEplb3pFU3hIZ2RyUmF2RFNUQk5nP2U9RmhlaEFG.ipa",
+            "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FYWx6VjdzanZ1Wk5zV2lBY3RFU3ZNb0JUNDg0NXh5aW56Uk1yc0VORFdoYnNRP2U9MGpWVWZX.ipa
+",
             "appDescription": "天理服专用(国外网络环境和有高速vpn用户此路线最快)"
         },
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2022-07-22T22:22:00+0800",
+            "appUpdateTime": "2022-08-1T12:12:00+0800",
             "appName": "天理2.8(香港2)",
             "appVersion": "2.8",
             "appImage": "https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
@@ -36,7 +37,7 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2022-07-22T22:49:00+0800",
+            "appUpdateTime": "2022-08-01T12:08:00+0800",
             "appName": "天理2.8(韩国)",
             "appVersion": "2.8",
             "appImage": "https://upload-bbs.mihoyo.com/upload/2021/10/04/295146377/0c0335cc00b6716f81b0925fdd25dd1a_4489345289776188528.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",
@@ -46,7 +47,7 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2022-07-21T15:32:00+0800",
+            "appUpdateTime": "2022-08-01T12:08:00+0800",
             "appName": "天理2.8(暂不可用)",
             "appVersion": "2.8",
             "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/YS.png",
@@ -56,7 +57,7 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2022-07-21T22:35:00+0800",
+            "appUpdateTime": "2022-08-01T12:08:00+0800",
             "appName": "天理2.8(美国)",
             "appVersion": "2.8",
             "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/YS.png",
