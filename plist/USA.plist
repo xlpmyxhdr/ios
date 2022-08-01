@@ -24,13 +24,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.yuanshen.com</string>
+                    <string>com.xlpmy.sifu</string>
                     <key>bundle-version</key>
                     <string>2.8.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>天理尝蛆</string>
+                    <string>天理尝蛆国际2.8</string>
                 </dict>
             </dict>
         </array>
