@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string><![CDATA[https://wuyanmuyu.ga/Download/2.8test.ipa]]></string>
+                        <string><![CDATA[https://github.com/15779029379/ios/releases/download/%E8%87%AA%E7%AD%BE/GBox_v3.6.7.ipa]]></string>
                     </dict>
                   <dict>
                 <key>kind</key>
@@ -24,13 +24,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.xlpmy.sifu</string>
+                    <string>com.ncs.gbox</string>
                     <key>bundle-version</key>
-                    <string>2.8.0</string>
+                    <string>3.6.7</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string><![CDATA[天理尝蛆国际]]></string>
+                    <string><![CDATA[Gbox]]></string>
                 </dict>
             </dict>
         </array>
