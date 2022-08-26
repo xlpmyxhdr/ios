@@ -26,11 +26,11 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
+            "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/nl.jpg",
+            "appPackage": "https://di2.casks.me/Download/tianli3.0.0.ipa",
             "appUpdateTime": "2022-08-26T20:38:00+0800",
             "appName": "天理3.0(韩国)",
             "appVersion": "3.0",
-            "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/nl.jpg",
-            "appPackage": "https://di2.casks.me/Download/tianli2.8.0.ipa",
             "appDescription": "天理服专用"
         },
         {
@@ -40,7 +40,7 @@
             "appName": "天理3.0(美国)",
             "appVersion": "3.0",
             "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/nl.jpg",
-            "appPackage": "https://di.casks.me/Download/tianli2.8.0.ipa",
+            "appPackage": "https://di.casks.me/Download/Tianli3.0.ipa",
             "appDescription": "天理服专用"
         }
     ]
