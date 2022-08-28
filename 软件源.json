@@ -16,12 +16,22 @@
         {
             "appType": "ENT_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2022-08-26T20:38:00+0800",
+            "appUpdateTime": "2022-08-28T20:38:00+0800",
             "appName": "天理3.0(香港)",
             "appVersion": "3.0",
             "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/nl.jpg",
-            "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FY0h0djVPNlZodEJ2M2NURmdUY0xYWUJEZWV5OVZfcEI4eGktNy10QTdxZ3NRP2U9UkhPOWs3.ipa",
+            "appPackage": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly92enNjOC1teS5zaGFyZXBvaW50LmNvbS86dTovZy9wZXJzb25hbC8xODcyNTA3MjE5X3Z6c2M4X29ubWljcm9zb2Z0X2NvbS9FWlVyZVMwa1RaUkZtTW1TcnJPQVpsd0JKbld2YUdKS2ZpSWtXcElTbTRyQkVRP2U9MEhxOVdV.ipa",
             "appDescription": "天理服专用(国外网络环境和有高速vpn用户此路线最快)"
+        },
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-08-28T20:38:00+0800",
+            "appName": "天理3.0(香港2)",
+            "appVersion": "3.0",
+            "appImage": "https://ghproxy.com/https://raw.githubusercontent.com/15779029379/ios/main/%E5%9B%BE%E6%A0%87/nl.jpg",
+            "appPackage": "http://wp.xlpmyxhdr.xyz:8080/directlink/2/%E5%A4%A9%E7%90%863.0.ipa",
+            "appDescription": "天理服专用"
         },
         {
             "appType": "ENT_SIGN",
